@@ -1,4 +1,11 @@
-payload: 
-  - +.plaync.com
-  - +.ncsoft.com
-  - nc.com
+payload:
+  - DOMAIN-SUFFIX,plaync.com
+  - DOMAIN-SUFFIX,ncsoft.com
+  - DOMAIN-SUFFIX,nc.com
+  - IP-CIDR,193.202.112.60/24
+#  - DOMAIN,ad.com
+#  - SRC-IP-CIDR,192.168.1.201/32
+#  - IP-CIDR,127.0.0.0/8
+#  - GEOIP,CN
+#  - DST-PORT,80
+#  - SRC-PORT,7777
