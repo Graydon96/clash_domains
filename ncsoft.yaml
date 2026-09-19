@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ncsoft.com
   - DOMAIN-SUFFIX,nc.com
   - IP-CIDR,193.202.112.60/24
+  - IP-ASN,142005
 #  - DOMAIN,ad.com
 #  - SRC-IP-CIDR,192.168.1.201/32
 #  - IP-CIDR,127.0.0.0/8
