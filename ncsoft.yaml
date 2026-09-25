@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ncsoft.com
   - DOMAIN-SUFFIX,nc.com
   - DOMAIN-SUFFIX,ncupdate.com
-  #- IP-CIDR,193.202.112.60/32 # Aion2国际服测试服美西ip
+  - IP-CIDR,193.202.112.60/32 # Aion2国际服测试服美西ip
 #  - IP-ASN,142005
 #  - DOMAIN,ad.com
 #  - SRC-IP-CIDR,192.168.1.201/32
